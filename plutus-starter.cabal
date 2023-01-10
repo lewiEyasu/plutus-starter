@@ -42,6 +42,7 @@ library
     import: lang
     exposed-modules:
       MyModule
+      TestH
       Plutus.Contracts.Game
     build-depends:
       base >= 4.9 && < 5,
